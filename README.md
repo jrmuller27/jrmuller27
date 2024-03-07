@@ -42,7 +42,9 @@
     <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff" />
   </a>
  
- 
+ <div align="center"> 
+     <h3> Other tools </h3>
+      POWER BI
   
   
 
