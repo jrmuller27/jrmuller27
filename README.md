@@ -6,7 +6,7 @@
 Tenho habilidades e conhecimentos avançados nos tópicos como: Data Scientist | Data Analyst | Business Intelligence (BI) Analyst | Data Quality Analyst | Data Governance | Dashboard Designer | Python  | Power BI | SQL | Machine learning | R.
 
 
-Realizo e tenho participação em projetos de empresas como AMBEV; PICPAY; AZUL; JOHNSON & JOHNSON; CSI; MAXMILHAS; DEXCO e várias outras empresas.
+### Realizo e tenho participação em projetos de empresas como AMBEV; PICPAY; AZUL; JOHNSON & JOHNSON; CSI; MAXMILHAS; DEXCO e várias outras empresas.
 
 
 
