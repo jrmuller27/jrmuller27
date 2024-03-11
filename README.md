@@ -2,6 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB043&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+José+Muller;I'm+20+years+old;I'm+a+Data+Scientist;and+BI+Professional;I'm+from+Brazil;I'm+an+eternal+data+student)](https://git.io/typing-svg)<br>
 
+### Sou estudante de Ciência de dados (Bacharel) e aluno da escola DNC na Formação em Dados. 
+Tenho habilidades e conhecimentos avançados nos tópicos como: Data Scientist | Data Analyst | Business Intelligence (BI) Analyst | Data Quality Analyst | Data Governance | Dashboard Designer | Python  | Power BI | SQL | Machine learning | R.
+Realizo e tenho participação em projetos de empresas como AMBEV; PICPAY; AZUL; JOHNSON & JOHNSON; CSI; MAXMILHAS; DEXCO e várias outras empresas.
+
+
 
 <div align="center">
   <br>
