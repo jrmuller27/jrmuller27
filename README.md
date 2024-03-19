@@ -34,7 +34,7 @@ Tenho habilidades e conhecimentos avançados nos tópicos como: Data Scientist |
 <div align="center">
   <h3> My tools </h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=vscode,r,mysql,anaconda,gcp)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,r,mysql,github,anaconda,gcp)](https://skillicons.dev)
 </div>
 
 <div align="center"> 
