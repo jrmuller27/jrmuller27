@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB043&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+José+Muller;I'm+20+years+old;I'm+a+Data+Scientist;and+BI+Professional;I'm+from+Brazil;I'm+an+eternal+data+student)](https://git.io/typing-svg)<br>
 
-### Sou Formado em dados pela escola DNC e estudante de Ciência de dados (Bacharel) no CEUB. 
+### Sou Formado um Cientista de Dados formado pela escola DNC e estudante de Ciência de dados (Bacharel) no CEUB. 
 -> Data Scientist | Data Analyst | Business Intelligence (BI) Analyst | Data Quality Analyst | Data Governance | Power BI | Python | SQL | Machine learning | R | Web scraping
                           
 
