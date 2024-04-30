@@ -76,7 +76,7 @@
   <a href="https://www.linkedin.com/in/jos%C3%A9-muller-663318234/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
   </a> 
-  <a href="https://www.canva.com/design/DAGAz64qt9w/jWAi-m6hDB1552EFFn3Rwg/view?utm_content=DAGAz64qt9w&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">
+  <a href="https://www.canva.com/design/DAGCmjTN2xk/G__XJ422vxT8BmXC-apDow/edit?utm_content=DAGCmjTN2xk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
      <img src="https://img.shields.io/badge/Currículo-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
