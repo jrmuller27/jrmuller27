@@ -8,7 +8,7 @@
 
 
 
-### Realizo e tenho participação em projetos de empresas como AMBEV; PICPAY; AZUL; JOHNSON & JOHNSON; CSI; MAXMILHAS; DEXCO e várias outras empresas.
+### Realizo projetos para órgãos públicos de todo o Brasil e para empresas como AMBEV; PICPAY; AZUL; JOHNSON & JOHNSON; CSI; MAXMILHAS; DEXCO e várias outras empresas.
 
 
 
