@@ -2,14 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB043&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+José+Muller;I'm+20+years+old;I'm+a+Data+Scientist;and+BI+Professional;I'm+from+Brazil;I'm+an+eternal+data+student)](https://git.io/typing-svg)<br>
 
-### Atualmente trabalho como analista de dados & machine learning no IPHAN e analista de IA na Outlier. 
-### Sou um Cientista de Dados formado pela escola DNC, Especialização em data science em Harvard school e estudante de Ciência de dados (Bacharel) no CEUB. 
+### I currently work as a Data Scientist at UL solutions (Global leader). 
+### I am a Data Scientist graduated from CEUB and DNC school with a specialization in data science at Harvard school.
 -> Data Scientist | Data Analyst | Business Intelligence (BI) Analyst | Data Quality Analyst | Data Governance | Power BI | Python | SQL | Machine learning | R | Web scraping
                           
 
 
 
-### Realizo projetos para órgãos públicos de todo o Brasil e para empresas como AMBEV; PICPAY; AZUL; JOHNSON & JOHNSON; CSI; MAXMILHAS; DEXCO e várias outras empresas.
+### I currently work for a leading global safety science company and carry out certification projects around the world, but I have also worked as an AI analyst and have carried out projects for public bodies across Brazil and for companies such as AMBEV; PICPAY; BLUE; JOHNSON & JOHNSON; CSI; MAXMILES; DEXCO and several other companies.
 
 
 
