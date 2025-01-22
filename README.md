@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB043&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB043&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+José+Muller;I'm+20+years+old;I'm+a+Data+Scientist;and+BI+Professional;I'm+from+Brazil;I'm+an+eternal+data+student)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB043&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+José+Muller;I'm+20+years+old;I'm+a+Data+Scientist;and+BI+Professional;I'm+an+eternal+data+student)](https://git.io/typing-svg)<br>
 
 ### I currently work as a Data Scientist at UL solutions (Global leader). 
 ### I am a Data Scientist graduated from CEUB and DNC school with a specialization in data science at Harvard school.
